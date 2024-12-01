@@ -23,3 +23,5 @@ This project was developed by a talented team. Here are the credits for all the 
 - **Chopin's Nocturne in C minor, Op. 48 no. 1** performed by [Cecile Licad](https://musopen.org/music/performer/cecile-licad/)
 - **Prologue Track** produced by [Gonzalo Vílchez](https://x.com/chomkycherub)
 - **Level 1 Track** composed by [Claudia Dyboski](https://www.instagram.com/dyboski/) and produced by [Gonzalo Vílchez](https://x.com/chomkycherub)
+
+- Paid assets have been removed from this repository
