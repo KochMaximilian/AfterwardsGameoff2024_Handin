@@ -24,4 +24,4 @@ This project was developed by a talented team. Here are the credits for all the 
 - **Prologue Track** produced by [Gonzalo Vílchez](https://x.com/chomkycherub)
 - **Level 1 Track** composed by [Claudia Dyboski](https://www.instagram.com/dyboski/) and produced by [Gonzalo Vílchez](https://x.com/chomkycherub)
 
-- Paid assets have been removed from this repository
+Paid assets have been removed from this repository
