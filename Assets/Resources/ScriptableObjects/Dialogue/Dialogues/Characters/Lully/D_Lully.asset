@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 811989d515061b04ca9c12694e4ab71d, type: 3}
+  m_Name: D_Lully
+  m_EditorClassIdentifier: 
+  actor: {fileID: 11400000, guid: 985baca5eb496f94ba87a980a0be6f09, type: 2}
+  dialogue:
+  - <color=#8AC7D2>Where have you been, you silly goose?</color>
+  - "<color=#8AC7D2>Mom and dad were like, real mad. You should stop disappearing
+    like that, some day there\u2019s gonna be consequences. Just sayin. \r\n</color>"
+  - <color=#8AC7D2>Been messing with the laptop I gave you too huh?</color>
+  - "<color=#8AC7D2>I\u2019m not gonna pay for that battery replacement. There should
+    be one around the second floor anyways\u2026\u201D\r\n</color>"
+  keyWords: []
+  Options: []
+  onEndDialogue: {fileID: 0}

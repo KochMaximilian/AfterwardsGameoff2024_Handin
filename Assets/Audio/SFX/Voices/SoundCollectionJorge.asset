@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e40c1e61d65644658e7b70afb018dd0c, type: 3}
+  m_Name: SoundCollectionJorge
+  m_EditorClassIdentifier: 
+  <WordSelect>k__BackingField:
+  - {fileID: 8300000, guid: 3700c2fb7b517914081c775962018e55, type: 3}
+  <WordPlace>k__BackingField:
+  - {fileID: 8300000, guid: 30f04c482c0280d46ad48898aa356313, type: 3}
+  <WordMerge>k__BackingField:
+  - {fileID: 8300000, guid: 2b5d9b60f9412104db412b7e53cff95c, type: 3}
+  <WordSplit>k__BackingField:
+  - {fileID: 8300000, guid: 065fa61dc66ff7c4ea2e7f2a2e574f01, type: 3}
+  <WordCantMerge>k__BackingField: []
+  <WordCantSplit>k__BackingField: []
+  <CollectWord>k__BackingField:
+  - {fileID: 8300000, guid: 42e7af2d3dd54dd4f8b4fab136dd5f85, type: 3}
+  <SlotCorrect>k__BackingField: []
+  <SlotIncorrect>k__BackingField: []
+  <PasswordCorrect>k__BackingField: []
+  <PasswordIncorrect>k__BackingField: []
+  <PlaceInSlot>k__BackingField:
+  - {fileID: 8300000, guid: 2ddccfd18e0d73044b80b4b5d858ebac, type: 3}
+  <RemoveFromSlot>k__BackingField: []
+  <NavigateThroughPasswords>k__BackingField: []
+  <ButtonClick>k__BackingField: []
+  <ButtonHoverStart>k__BackingField: []
+  <ButtonHoverEnd>k__BackingField: []
+  <OpenNotebookUI>k__BackingField: []
+  <CloseNotebookUI>k__BackingField: []
+  <ConversationStart>k__BackingField: []
+  <ConversationEnd>k__BackingField: []
+  <IndexHit>k__BackingField: []
+  <IndexMiss>k__BackingField: []

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 811989d515061b04ca9c12694e4ab71d, type: 3}
+  m_Name: D_Oven
+  m_EditorClassIdentifier: 
+  actor: {fileID: 11400000, guid: c2b895b1fb67b3049a75fef7bc1e855e, type: 2}
+  dialogue:
+  - "<i>You want to open the oven to see what\u2019s {inside}, but there\u2019s no
+    need to take a look \u2014 the smell feels like something you\u2019ve been craving
+    for all eternity.</i>"
+  - <i>It fills your lungs with delightful, sweet notes and your {heart} with a sense
+    of unmistakable belonging.</i>
+  keyWords: []
+  Options: []
+  onEndDialogue: {fileID: 0}

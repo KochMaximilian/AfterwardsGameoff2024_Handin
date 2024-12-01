@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 811989d515061b04ca9c12694e4ab71d, type: 3}
+  m_Name: D_Grandpa_OptionA
+  m_EditorClassIdentifier: 
+  actor: {fileID: 11400000, guid: 027e61c5ca5baa6418b9bf71145adaa9, type: 2}
+  dialogue:
+  - <color=#C89768>A long, long time ago, two tiny little mammals lived by the woods.
+    Their names were Fluflur and Rufluf.</color>
+  - <color=#C89768>Although they were naturally independent animals, Flufur and Rufluf's
+    paths crossed by chance on a full moon night, </color>
+  - <color=#C89768>and ever since then, their bond was tied forever.</color>
+  - '<color=#C89768>It was, as I said, a full moon night, round as a cheese. It looked
+    so much like cheese that Flufur''s appetite was awakened, and he went out in
+    search of some delicious snack.</color>
+
+
+'
+  - "<color=#C89768>\u2014 \"So hungry! Fluf, fluf. If only I had some cheese in
+    my pantry... What a great tragedy, fluf!\"</color>\n"
+  - '<color=#C89768>And so, Flurflur... I mean, Ruflur... Where was I again?</color>
+
+'
+  - '<color=#C89768>I''m afraid I can''t remember the rest, honey!</color>
+
+'
+  - '<color=#C89768>Will you excuse old grandpa Larry?</color>
+
+'
+  keyWords: []
+  Options: []
+  onEndDialogue: {fileID: 0}
+  path: ScriptableObjects/Dialogue/Dialogues/Characters/Grandpa/D_Grandpa_OptionA

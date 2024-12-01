@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b5dd6afa76d4daba3e5abe6c4f89209, type: 3}
+  m_Name: Nubi
+  m_EditorClassIdentifier: 
+  actorName: Nubi
+  voice:
+  - {fileID: 8300000, guid: 84debb88cdff5ad4fb024243594f59e0, type: 3}
+  - {fileID: 8300000, guid: be29815fdd65e5244a5a658f33fac164, type: 3}
+  - {fileID: 8300000, guid: 29eb7b6a95e160c458975416a354b181, type: 3}
+  - {fileID: 8300000, guid: 1e1a549c2e6699e4e946cfc19743fa25, type: 3}
+  - {fileID: 8300000, guid: 186e4dd42325e934f897217c72143dbc, type: 3}
+  charactersPerSound: 8

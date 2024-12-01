@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 811989d515061b04ca9c12694e4ab71d, type: 3}
+  m_Name: D_Grandma
+  m_EditorClassIdentifier: 
+  actor: {fileID: 11400000, guid: 27c4316ca8be13b40a1b35a2bdd24ae3, type: 2}
+  dialogue:
+  - "<color=#F9C7E4>Hi there sweetie! Come give grandma a kiss! I prepared something
+    you really like\u2026 Can\u2019t you tell by the smell?</color>"
+  - "<color=#F9C7E4>Yes, it\u2019s your favourite cake! Caramelized egg yolk topping,
+    buttery layers\u2026 C\u2019mon, have a piece! But leave some for your sister,
+    young one!</color>"
+  keyWords: []
+  Options:
+  - text: "You\u2019re my\u2026 grandma? "
+    dialogue: {fileID: 11400000, guid: cd51f9ad533c040459f46fd13e7f30dd, type: 2}
+    OnSelected: 
+  - text: Tell me one of your stories, grandma!
+    dialogue: {fileID: 11400000, guid: 310404cf41ff17445b955140ce79de86, type: 2}
+    OnSelected: 

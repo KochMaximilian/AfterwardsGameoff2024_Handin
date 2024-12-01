@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 811989d515061b04ca9c12694e4ab71d, type: 3}
+  m_Name: Turntable_0
+  m_EditorClassIdentifier: 
+  actor: {fileID: 11400000, guid: c2b895b1fb67b3049a75fef7bc1e855e, type: 2}
+  dialogue:
+  - "This music\u2026 It\u2019s like you\u2019ve heard this piece before, yet you
+    don\u2019t quite recall when or why\u2026 It feels like all the emotions you\u2019ve
+    known during your life taking place at once. "
+  - It pierces your very heart with solemn grief, as a shivering ray of hope tries
+    to wipe your tears, powerless.
+  keyWords: []
+  Options: []

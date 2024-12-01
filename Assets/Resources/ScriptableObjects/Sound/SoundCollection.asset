@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e40c1e61d65644658e7b70afb018dd0c, type: 3}
+  m_Name: SoundCollection
+  m_EditorClassIdentifier: 
+  <WordSelect>k__BackingField:
+  - {fileID: 8300000, guid: fcbee61123f511144a5782e91efdffb7, type: 3}
+  <WordPlace>k__BackingField:
+  - {fileID: 8300000, guid: d6de7607b0e17744f901240a5af7a5c0, type: 3}
+  <WordMerge>k__BackingField:
+  - {fileID: 8300000, guid: 9b2f969c4cea3864d8ae03caf3228870, type: 3}
+  <WordSplit>k__BackingField:
+  - {fileID: 8300000, guid: d955f95dd76e04d4b91e11d23b2e0185, type: 3}
+  <WordCantMerge>k__BackingField:
+  - {fileID: 8300000, guid: c4194ef408da6144d8db97b80f85b6bd, type: 3}
+  <WordCantSplit>k__BackingField:
+  - {fileID: 8300000, guid: c4194ef408da6144d8db97b80f85b6bd, type: 3}
+  <CollectWord>k__BackingField: []
+  <SlotCorrect>k__BackingField:
+  - {fileID: 8300000, guid: 049a7149e08f9c84296bd2c4ccde25dd, type: 3}
+  <SlotIncorrect>k__BackingField:
+  - {fileID: 8300000, guid: c4194ef408da6144d8db97b80f85b6bd, type: 3}
+  <PasswordCorrect>k__BackingField: []
+  <PasswordIncorrect>k__BackingField:
+  - {fileID: 8300000, guid: c4194ef408da6144d8db97b80f85b6bd, type: 3}
+  <PlaceInSlot>k__BackingField:
+  - {fileID: 8300000, guid: ebe7ef8c462c59649b350bb168bb9bea, type: 3}
+  <RemoveFromSlot>k__BackingField:
+  - {fileID: 8300000, guid: 358d6c011e65bb34196fc57f6e4f72f9, type: 3}
+  <NavigateThroughPasswords>k__BackingField: []
+  <ButtonClick>k__BackingField:
+  - {fileID: 8300000, guid: 071d0e1d68beafe489e4a2e4f1852a41, type: 3}
+  <ButtonHoverStart>k__BackingField:
+  - {fileID: 8300000, guid: d6de7607b0e17744f901240a5af7a5c0, type: 3}
+  <ButtonHoverEnd>k__BackingField: []
+  <OpenNotebookUI>k__BackingField: []
+  <CloseNotebookUI>k__BackingField: []
+  <ConversationStart>k__BackingField: []
+  <ConversationEnd>k__BackingField: []
+  <IndexHit>k__BackingField:
+  - {fileID: 8300000, guid: 6d6167e04d7c5474b8d0f465fa86c430, type: 3}
+  <IndexMiss>k__BackingField:
+  - {fileID: 8300000, guid: c4194ef408da6144d8db97b80f85b6bd, type: 3}
+  <StepsLevel1>k__BackingField:
+  - {fileID: 8300000, guid: 08245cb47190d6143a0592504210a61c, type: 3}
+  - {fileID: 8300000, guid: 2c17b0198326eec4fb3013eaa01afa1c, type: 3}
+  - {fileID: 8300000, guid: b62dd961175522346855a262e2a3624b, type: 3}
+  - {fileID: 8300000, guid: adad66c91a5382d468c971ace2ceb69d, type: 3}
+  - {fileID: 8300000, guid: 6949d1d4eb9ba62469a4454b42ad169f, type: 3}
+  - {fileID: 8300000, guid: 1d5323e710cdc3746b4a20b7c24eb2d5, type: 3}
+  - {fileID: 8300000, guid: 29fc7e59845ab4d4295af25b0a733731, type: 3}
+  - {fileID: 8300000, guid: d38b0c6ea17f9d843aac13f9f3e8e220, type: 3}
+  - {fileID: 8300000, guid: 01d0ff6a3a7d7cc4f8150d9a65f21f19, type: 3}
+  - {fileID: 8300000, guid: 11d6b9b0a8cc1d44bbfac54a3d8cbe96, type: 3}
+  - {fileID: 8300000, guid: 26605298a7d75304cb01f06290f3e70f, type: 3}
+  - {fileID: 8300000, guid: f4f29451072af2c428281ab9617d2a1f, type: 3}
+  - {fileID: 8300000, guid: 16126a2d18830f64abde575f0eb88c3c, type: 3}
+  - {fileID: 8300000, guid: 4de93b9a4014e4a43b93f07f0014f32d, type: 3}
+  - {fileID: 8300000, guid: 07dd1c8541ce46849a1fce732a65640b, type: 3}
+  - {fileID: 8300000, guid: fc51c3856f997d449b7bae1ad4d814d6, type: 3}
+  - {fileID: 8300000, guid: fa9e46ccf4a770a4cb4cac6a9e2c2530, type: 3}
+  - {fileID: 8300000, guid: f1181b2a8ad24fc42aa7354653f1ca80, type: 3}
+  - {fileID: 8300000, guid: 94e07e1b68e60984da544a0648b54ac7, type: 3}
+  - {fileID: 8300000, guid: 54d84deaadc05d24abd2843601b552d5, type: 3}
+  - {fileID: 8300000, guid: e19f66e9a4e2ec044b824f58e2e6745f, type: 3}
+  <StepsPrologue>k__BackingField:
+  - {fileID: 8300000, guid: c462eab3106d8d140b4b93f287bce852, type: 3}
+  - {fileID: 8300000, guid: 8527badead3aef84d9e63f96d8a875fa, type: 3}
+  - {fileID: 8300000, guid: f81022f776920e24f8b9df90195d04cf, type: 3}
+  - {fileID: 8300000, guid: e0a61908b8239e1488cf9353485d6fae, type: 3}
+  - {fileID: 8300000, guid: 8cdd71ae580095342a0b0935bddd0ebe, type: 3}
+  - {fileID: 8300000, guid: 3e447cb907c628049a71b4bb01df59ac, type: 3}
+  - {fileID: 8300000, guid: d0e6431d2931b6844af067e10ae08d8a, type: 3}
+  <MainMenuMusic>k__BackingField: {fileID: 8300000, guid: aa8bbbeac7a4df14fb85d8c26beda344, type: 3}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e967f2a302f4773b636433fa609e4b8, type: 3}
+  m_Name: Prologue_SecondInteraction
+  m_EditorClassIdentifier: 
+  actor: {fileID: 11400000, guid: 7080f5f6b89459a4691df7d8aacff811, type: 2}
+  dialogue: []
+  keyWords: []
+  Options:
+  - text: I think so...
+    dialogue: {fileID: 0}
+    onSelected: 00000000
+  - text: Not yet...
+    dialogue: {fileID: 0}
+    onSelected: 
+  onEndDialogue: {fileID: 0}
+  path: ScriptableObjects/Dialogue/Dialogues/Nubi/Prologue_SecondInteraction
+  emotionalDialogues:
+  - emotion: 0
+    text: <color=#D5C7E4>Hi again, are you ready to get started now?</color>

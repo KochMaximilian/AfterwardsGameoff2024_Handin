@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 811989d515061b04ca9c12694e4ab71d, type: 3}
+  m_Name: D_ExitDoor
+  m_EditorClassIdentifier: 
+  actor: {fileID: 11400000, guid: f097c5d04d0c0cc458745a79073043d5, type: 2}
+  dialogue:
+  - "<color=#D5C7E4><i>The exit door is locked. It seems the notebook next to it
+    might be helpful\u2026</i></color>\r\n"
+  keyWords: []
+  Options: []

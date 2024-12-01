@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 811989d515061b04ca9c12694e4ab71d, type: 3}
+  m_Name: D_Bookshelf_1
+  m_EditorClassIdentifier: 
+  actor: {fileID: 11400000, guid: c2b895b1fb67b3049a75fef7bc1e855e, type: 2}
+  dialogue:
+  - '<i>You pick up a book and randomly open it. It reads:
+
+    </i>'
+  - "<i>\u201C{[w=0]Truth} can never be told so as to be understood, and not be believed\u201D.\r\n</i>"
+  - "<i>You realize this wasn\u2019t random at all.</i> The verse is handwritten
+    and the page is all dog-eared. Says it\u2019s from William Blake\u2019s Marriage
+    Of Heaven And Hell."
+  - " <i>You recognize the lettering, but it\u2019s not yours.</i>\r\n"
+  keyWords:
+  - {fileID: 11400000, guid: 7ec895c28b6931849ba7e5e04626900c, type: 2}
+  Options: []

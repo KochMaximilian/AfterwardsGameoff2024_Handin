@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 811989d515061b04ca9c12694e4ab71d, type: 3}
+  m_Name: D_Plant
+  m_EditorClassIdentifier: 
+  actor: {fileID: 11400000, guid: c2b895b1fb67b3049a75fef7bc1e855e, type: 2}
+  dialogue:
+  - "<i>You slowly start to understand the girls\u2019 obsession with this particular
+    plant.\r\n</i>"
+  - "<i>It\u2019s not like it\u2019s built different from any other, but something
+    in its architecture is mesmerizing.\r\n</i>"
+  - "<i>It\u2019s literally towering from a mound of dirt, green and ever-growing.\r\n</i>"
+  - '<i>You imagine the girl digging her hands into the soft <color=#E9C002>earth</color>,
+    planting the seeds with the tenderness of a life-giving mother.
+
+    </i>'
+  - "<i>You start to think of roots as something rather mysterious, and you wish
+    you could dig up the very world to see what\u2019s inside.\r\n</i>"
+  keyWords: []
+  Options: []
+  onEndDialogue: {fileID: 0}
+  path: ScriptableObjects/Dialogue/Dialogues/Level 1 Objects/D_Plant

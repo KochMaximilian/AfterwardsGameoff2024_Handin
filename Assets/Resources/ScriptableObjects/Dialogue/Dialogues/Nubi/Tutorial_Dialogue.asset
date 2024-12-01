@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e967f2a302f4773b636433fa609e4b8, type: 3}
+  m_Name: Tutorial_Dialogue
+  m_EditorClassIdentifier: 
+  actor: {fileID: 11400000, guid: 7080f5f6b89459a4691df7d8aacff811, type: 2}
+  dialogue: []
+  keyWords: []
+  Options: []
+  onEndDialogue: {fileID: 0}
+  path: ScriptableObjects/Dialogue/Dialogues/Nubi/Tutorial_Dialogue
+  emotionalDialogues:
+  - emotion: 4
+    text: "<color=#B292E5>Ohh! NICE! I see you\u2019ve finally made up your mind.
+      See? It wasn\u2019t so scary after all!</color>\r\n"
+  - emotion: 0
+    text: "<color=#B292E5>This place should look familiar to you. Hopefully you\u2019ll
+      find something of interest around! Or maybe not, idk! But you\u2019ve gone
+      this far.</color>\r\n"
+  - emotion: 2
+    text: "<color=#B292E5>It\u2019s not like you got anywhere else to go\u2026. Well,
+      I hope this stuff refreshes your memory! </color>"
+  - emotion: 0
+    text: <color=#B292E5>While in here, you will pretty much be remembering many
+      things about yourself! Think of these memories as something you can collect.</color>
+  - emotion: 4
+    text: <color=#B292E5>You should be mindful of the memories that really matter!
+      You can collect these by pressing {SPACE}.</color>
+  - emotion: 4
+    text: <color=#B292E5>See? Pretty easy, isn't it?</color>
+  - emotion: 3
+    text: <color=#B292E5>These memories can also be tied to other memories! But putting
+      all the pieces together is easier when you got a pen on you, don't you think?</color>
+  - emotion: 4
+    text: <color=#B292E5>You should definitely check the <color=#E9C002>notebook</color>
+      over the table.</color>

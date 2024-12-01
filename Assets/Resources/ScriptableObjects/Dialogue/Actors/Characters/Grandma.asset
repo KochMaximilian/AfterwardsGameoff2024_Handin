@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b5dd6afa76d4daba3e5abe6c4f89209, type: 3}
+  m_Name: Grandma
+  m_EditorClassIdentifier: 
+  actorName: Grandma
+  voice:
+  - {fileID: 8300000, guid: 74324f0d109a7fe4c86c37abc7c29f26, type: 3}
+  - {fileID: 8300000, guid: d07bb30db8b9fe24fbb8b01e0341898e, type: 3}
+  - {fileID: 8300000, guid: 9afd75365dfa36149b49ccffe80b9386, type: 3}
+  - {fileID: 8300000, guid: 2a6c2bbb714b8e84ba9889870be82244, type: 3}
+  charactersPerSound: 6

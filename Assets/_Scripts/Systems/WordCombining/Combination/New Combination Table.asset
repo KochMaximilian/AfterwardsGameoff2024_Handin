@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21dfa5c870af4005ac9c6c6b844205b7, type: 3}
+  m_Name: New Combination Table
+  m_EditorClassIdentifier: 
+  combinations:
+  - isCommutative: 1
+    inputWord1: {fileID: 11400000, guid: 68cad4ecac210914ab27c1689c91bef1, type: 2}
+    inputWord2: {fileID: 11400000, guid: 135b4a08f99a49c4eb3cc213da217913, type: 2}
+    outputWord: {fileID: 11400000, guid: 80301926627240743b033841ac5fcc9e, type: 2}
+  - isCommutative: 1
+    inputWord1: {fileID: 11400000, guid: c8028033b072c944ab8e7a8e2f904c33, type: 2}
+    inputWord2: {fileID: 11400000, guid: 80c474df82692f3408557bc8fb45c3a0, type: 2}
+    outputWord: {fileID: 11400000, guid: 10e109daaa9f1564cb9652384ab50ccf, type: 2}
+  - isCommutative: 1
+    inputWord1: {fileID: 11400000, guid: 8bd624a8cd2609f4d8ac03adea64d158, type: 2}
+    inputWord2: {fileID: 11400000, guid: 3b31778a5b471b74ca7f378fe46ddfc2, type: 2}
+    outputWord: {fileID: 11400000, guid: 709ba61fc61a26d4f9bbc306de4913ed, type: 2}
+  - isCommutative: 1
+    inputWord1: {fileID: 11400000, guid: 0b4cd8de848719b489b1c64418434024, type: 2}
+    inputWord2: {fileID: 11400000, guid: e4b18d4a02119c24ebfc79fa1d5c56d0, type: 2}
+    outputWord: {fileID: 11400000, guid: f917a159b7f1adb419eeee8c54a69ebd, type: 2}
+  - isCommutative: 1
+    inputWord1: {fileID: 11400000, guid: 174002ce1691d90418a4f2837794abbe, type: 2}
+    inputWord2: {fileID: 11400000, guid: aadc10686877a2c428d48445751ea135, type: 2}
+    outputWord: {fileID: 11400000, guid: 98585e95285a4fa41b07a23213e6698a, type: 2}
+  - isCommutative: 1
+    inputWord1: {fileID: 11400000, guid: 2178cd01e3e6445408c4c20d988ad963, type: 2}
+    inputWord2: {fileID: 11400000, guid: 00780e59debbe894fa56a1c0d5b6b038, type: 2}
+    outputWord: {fileID: 11400000, guid: f7154cb6c17b84a4db83f1b711fe6fc8, type: 2}
+  - isCommutative: 1
+    inputWord1: {fileID: 11400000, guid: 7ec895c28b6931849ba7e5e04626900c, type: 2}
+    inputWord2: {fileID: 11400000, guid: c17388d8c591c504e90d292752f6a12e, type: 2}
+    outputWord: {fileID: 11400000, guid: 7e763e5db999f544ca02954a2c5b43ef, type: 2}
+  - isCommutative: 1
+    inputWord1: {fileID: 11400000, guid: 5b59a46bf11119c499b741ceb39758ac, type: 2}
+    inputWord2: {fileID: 11400000, guid: b93ca144a37d81a4f90c482aad9fa83e, type: 2}
+    outputWord: {fileID: 11400000, guid: d9bce82f6f7a903498f81bd38b076bc6, type: 2}
+  - isCommutative: 1
+    inputWord1: {fileID: 11400000, guid: 4901adde4d19761459b83e07e2020cc3, type: 2}
+    inputWord2: {fileID: 11400000, guid: ad085b3a3676c5f42bab3f0ec2ddf565, type: 2}
+    outputWord: {fileID: 11400000, guid: d8128135db089c344aff21beef0ba3db, type: 2}
+  - isCommutative: 1
+    inputWord1: {fileID: 11400000, guid: ad085b3a3676c5f42bab3f0ec2ddf565, type: 2}
+    inputWord2: {fileID: 11400000, guid: b93ca144a37d81a4f90c482aad9fa83e, type: 2}
+    outputWord: {fileID: 11400000, guid: c255d1cdf3cb4324b9889d64937465be, type: 2}
+  stringCombinations:
+  - isCommutative: 0
+    inputWord1: duck
+    inputWord2: duck
+    outputWord: megaduck
+  - isCommutative: 0
+    inputWord1: megaduck
+    inputWord2: megaduck
+    outputWord: gigaduck
+  - isCommutative: 0
+    inputWord1: time
+    inputWord2: missing
+    outputWord: death
+  - isCommutative: 0
+    inputWord1: missing
+    inputWord2: time
+    outputWord: death
+  - isCommutative: 0
+    inputWord1: inside
+    inputWord2: outside
+    outputWord: insideout
+  - isCommutative: 0
+    inputWord1: outside
+    inputWord2: inside
+    outputWord: space
+  - isCommutative: 0
+    inputWord1: heart
+    inputWord2: energy
+    outputWord: love
+  - isCommutative: 0
+    inputWord1: energy
+    inputWord2: heart
+    outputWord: love
+  - isCommutative: 0
+    inputWord1: duck
+    inputWord2: love
+    outputWord: ducklovers
+  - isCommutative: 0
+    inputWord1: love
+    inputWord2: duck
+    outputWord: ducklovers

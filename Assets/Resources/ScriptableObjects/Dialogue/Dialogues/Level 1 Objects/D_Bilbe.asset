@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 811989d515061b04ca9c12694e4ab71d, type: 3}
+  m_Name: D_Bilbe
+  m_EditorClassIdentifier: 
+  actor: {fileID: 11400000, guid: c2b895b1fb67b3049a75fef7bc1e855e, type: 2}
+  dialogue:
+  - "<i>It\u2019s an old Bible.</i>"
+  - "<i>Seems like someone\u2019s been reading it for decades now - the cover is
+    all tattered, almost every verse seems underlined.</i>"
+  - "<i>There\u2019s a dried {rose} between the pages. You find a verse all surrounded
+    by weird drawings and sigils:</i>"
+  - '<i>The secret things belong unto the Lord our God: but those things which are
+    revealed belong unto us and to our children for ever, that we may do all the
+    words of this law.
+
+    </i>'
+  - <align="center">Deuteronomy 29:29</align>
+  - "\r\n<i>Whose Bible is this? You remember someone introduced you to all the stories
+    told in the Gospels, but you weren\u2019t that passionate about it.</i>\r\n"
+  keyWords: []
+  Options: []
+  onEndDialogue: {fileID: 0}
+  path: ScriptableObjects/Dialogue/Dialogues/Level 1 Objects/D_Bilbe

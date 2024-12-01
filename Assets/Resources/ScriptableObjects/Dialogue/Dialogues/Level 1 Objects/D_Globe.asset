@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 811989d515061b04ca9c12694e4ab71d, type: 3}
+  m_Name: D_Globe
+  m_EditorClassIdentifier: 
+  actor: {fileID: 11400000, guid: c2b895b1fb67b3049a75fef7bc1e855e, type: 2}
+  dialogue:
+  - '<i>You gently spin the globe, its faded surface rough under your fingertips.
+
+    </i>'
+  - "<i>As you keep spinning, the continents seem to blur for a moment\u2014you tilt
+    your head slightly, and so light catches on a piece of land you can\u2019t seem
+    to recognize.\r</i>"
+  - <i>You get lost in the thought of how this planet you call home has been through
+    extinction so many times, and will do, forever.</i>
+  - "<i>It feels like the Earth itself has been undone and built anew for eternity
+    to this point. \r\n</i>"
+  - "<i>You wish you could remember its very beginning\u2014you wonder if she has
+    her own sort of amnesia too.</i>\r"
+  - <i>What is this continent you just discovered? Is it missing its name too?</i>
+  - <i>You want to embark on a journey to discover this brand new piece of land.
+    </i>
+  - <i>You feel like the whole {history} of the cosmos could be buried, patiently
+    sedimented through aeons.</i>
+  keyWords: []
+  Options: []
+  onEndDialogue: {fileID: 0}
+  path: ScriptableObjects/Dialogue/Dialogues/Level 1 Objects/D_Globe

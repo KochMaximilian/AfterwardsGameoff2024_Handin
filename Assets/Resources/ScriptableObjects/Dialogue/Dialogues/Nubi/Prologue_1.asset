@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9e967f2a302f4773b636433fa609e4b8, type: 3}
+  m_Name: Prologue_1
+  m_EditorClassIdentifier: 
+  actor: {fileID: 11400000, guid: 7080f5f6b89459a4691df7d8aacff811, type: 2}
+  dialogue: []
+  keyWords: []
+  Options:
+  - text: I think so...
+    dialogue: {fileID: 0}
+    onSelected: 00000000
+  - text: Not yet
+    dialogue: {fileID: 0}
+    onSelected: 
+  onEndDialogue: {fileID: 0}
+  emotionalDialogues:
+  - emotion: 1
+    text: <color=#D5C7E4>Whaaaaaaaaaaaaaaaaaaaaaaat? Dude.</color>
+  - emotion: 2
+    text: "<color=#D5C7E4>Now that\u2019s weird. Like. How come you don\u2019t know
+      <i>YOUR</i> own name? Maybe you should go see a doc or something\u2026 NAAAAAAAAAAAAHHH.</color>"
+  - emotion: 4
+    text: "<color=#D5C7E4>It\u2019s just a prank! Nobody that\u2019s been through
+      here remembers at first!</color>"
+  - emotion: 4
+    text: "<color=#D5C7E4>It\u2019s pretty much the name of the game. Buuuut, it\u2019s
+      part of the fun! I think that makes it more interesting. </color>"
+  - emotion: 3
+    text: "<color=#D5C7E4>It\u2019s all about remembering, you know? And it might
+      take you a couple tries, maybe a thousand! But in the end, we all do!</color>\r"
+  - emotion: 4
+    text: "<color=#D5C7E4>Think I remembered I\u2019m Nubi at first shot? Well\u2026
+      actually\u2026 I did (uwu). But that\u2019s cause I\u2019m built different.
+      </color>"
+  - emotion: 4
+    text: "<color=#D5C7E4>See? No body so to speak, cool shading thing all around
+      me, pretty abstract if you wish\u2026 My design is peak game!</color>\r"
+  - emotion: 0
+    text: "<color=#D5C7E4>But don\u2019t worry. It\u2019s gonna be a ride, but I\u2019m
+      sure you\u2019ll enjoy the most of it.</color>\r"
+  - emotion: 3
+    text: "<color=#D5C7E4>ANYWAY</color>\r"
+  - emotion: 4
+    text: "<color=#D5C7E4>Are you ready to get started?</color>\r"
